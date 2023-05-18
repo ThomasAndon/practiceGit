@@ -11,10 +11,4 @@ func main() {
 	log.Println("3333")
 	//log.Println("4444")
 	// branch newF
-
-	// new added main
-
-	// branch newF 1
-	// branch newF 2
-
 }
